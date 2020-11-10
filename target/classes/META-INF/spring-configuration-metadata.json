@@ -1,0 +1,30 @@
+{
+  "groups": [
+    {
+      "name": "my.hello",
+      "type": "com.example.hello.HelloProperties",
+      "sourceType": "com.example.hello.HelloProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "my.hello.age",
+      "type": "java.lang.Integer",
+      "description": "年龄",
+      "sourceType": "com.example.hello.HelloProperties"
+    },
+    {
+      "name": "my.hello.hometown",
+      "type": "java.lang.String",
+      "description": "家乡",
+      "sourceType": "com.example.hello.HelloProperties"
+    },
+    {
+      "name": "my.hello.name",
+      "type": "java.lang.String",
+      "description": "姓名",
+      "sourceType": "com.example.hello.HelloProperties"
+    }
+  ],
+  "hints": []
+}

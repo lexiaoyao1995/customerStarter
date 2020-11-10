@@ -1,0 +1,9 @@
+com/example/hello/HelloServiceAutoConfiguration.class
+META-INF/spring-configuration-metadata.json
+com/example/log/MyLogInterceptor.class
+com/example/hello/HelloService.class
+com/example/Application.class
+com/example/otherway/EnableSDK.class
+com/example/hello/HelloProperties.class
+com/example/log/MyLog.class
+com/example/otherway/MyImportor.class
